@@ -1,0 +1,6 @@
+# .gitignore for email_notifier
+.env
+__pycache__/
+*.pyc
+*.pyo
+
